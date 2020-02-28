@@ -1,0 +1,9 @@
+car
+motorcycle
+bus
+bicycle
+truck
+pedestrian
+other_vehicle
+animal
+emergency_vehicle
